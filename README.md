@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jools-hzx&label=Profile%20views&color=0e75b6&style=flat" alt="jools-hzx" /> </p>
 
-- 🔭 I’m currently working on **finishing my Msc programme**
+- 🔭 I’m currently working on: **finishing my Msc programme**
 
-- 🌱 I’m currently learning **backend full stack and tools**
+- 🌱 I’m currently learning: **backend full stack and tools**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jools-hzx?tab=repositories](https://github.com/Jools-hzx?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Jools-hzx?tab=repositories](https://github.com/Jools-hzx?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.yuque.com/wakoo-fvkfd](https://www.yuque.com/wakoo-fvkfd)
+- 📝 I regularly write articles on: [https://www.yuque.com/wakoo-fvkfd](https://www.yuque.com/wakoo-fvkfd)
 
-- 📫 How to reach me **1035558517@qq.com or jools666@connect.hku.hk**
+- 📫 How to reach me: **1035558517@qq.com or jools666@connect.hku.hk**
 
-- ⚡ Fun fact **I really want to lose weight!**
+- ⚡ Fun fact: **I really want to lose weight!**
 
 <h3 align="left">Connect with me[TODO in the future.....]:</h3>
 <p align="left">
