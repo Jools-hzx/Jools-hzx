@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on: [https://www.yuque.com/wakoo-fvkfd](https://www.yuque.com/wakoo-fvkfd) 🐦
 
-- 📫 How to reach me: **1035558517@qq.com or jools666@connect.hku.hk**
+- 📫 How to reach me: **1035558517@qq.com or Wechat: he07512875598**
 
 - ⚡ Fun fact: **I really want to lose weight!**
 
-<h3 align="left">Connect with me[TODO in the future.....]:</h3>
+<h3 align="left">Connect with me[TODO: Implement personal blog in the future.....]:</h3>
 <p align="left">
 <a href="https://dev.to/jools he" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jools he" height="30" width="40" /></a>
 </p>
