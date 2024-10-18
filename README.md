@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on: [https://www.yuque.com/wakoo-fvkfd](https://www.yuque.com/wakoo-fvkfd) 🐦
 
-- 📫 How to reach me: **1035558517@qq.com or Wechat: he07512875598**
+- 📫 How to reach me: **1035558517@qq.com or Wechat: `he07512875598` **
 
 - ⚡ Fun fact: **I really want to lose weight!**
 
