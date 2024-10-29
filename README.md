@@ -17,7 +17,7 @@
 [![YuQue](https://img.shields.io/badge/YuQue-%23A5D6A7.svg?style=for-the-badge&logo=yuque&logoColor=white)](https://www.yuque.com/wakoo-fvkfd)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hezexi2001@gmail.com)
 [![QQ Mail](https://img.shields.io/badge/QQ%20Mail-%231E90FF.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:1035558517@qq.com)
-[![XiaoHongShu](https://img.shields.io/badge/XiaoHongShu-%23FF0000.svg?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/8079842000)
+[![XiaoHongShu](https://img.shields.io/badge/XiaoHongShu-%23FF0000.svg?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/61aa23450000000002023da6)
 
 ---
 
