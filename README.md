@@ -37,6 +37,8 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-%23D00000.svg?style=for-the-badge&logo=apache-rocketmq&logoColor=white)
+![Etcd](https://img.shields.io/badge/Etcd-%23023131.svg?style=for-the-badge&logo=apache-etcd&logoColor=white)
+![ZooKeeper](https://img.shields.io/badge/ZooKeeper-%23023131.svg?style=for-the-badge&logo=apache-zookeeper&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%23023131.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 #### DevOps & Containers
@@ -63,9 +65,10 @@
 
 | 🔥 Project Name | 🌟 Description | 🔗 Link |
 |-----------------|----------------|---------|
-| **JoolsAPIs**   | An API platform based on Spring Boot + Dubbo + Spring Cloud | [Check it out](https://reurl.cc/2j6QG6) |
-| **Seckill System** | High-concurrency seckill system using Redis & RabbitMQ | [Check it out](https://reurl.cc/93X78x) |
-| **Hzxliving**    | Distributed microservices-based product publishing system | [Check it out](https://reurl.cc/7do7xQ) |
+| **Jools-RPC-Framework**   | A simple RPC framework based on Java + Etcd + Vert.x | [Check it out](https://reurl.cc/dy6o5z) |
+| **JoolsAPIs - Platform**   | An API platform based on Spring Boot + Dubbo + Spring Cloud | [Check it out](https://reurl.cc/2j6QG6) |
+| **Seckill Control System** | High-concurrency seckill system using Redis & RabbitMQ | [Check it out](https://reurl.cc/93X78x) |
+| **Hzxliving Mail system**    | Distributed microservices-based product publishing system | [Check it out](https://reurl.cc/7do7xQ) |
 
 ---
 
