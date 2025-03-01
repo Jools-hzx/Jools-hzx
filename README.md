@@ -4,9 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=58A6FF&amp;width=435&amp;lines=Reading+is+faster+than+listening;Acting+is+faster+than+watching;Keep+patience+and+perseverance)](https://git.io/typing-svg)
 
-🔭 I’m currently pursuing my **Master's in Computer Science** at **The University of Hong Kong (HKU)**.  
-💻 I specialize in **Java Backend Development** and have hands-on experience with **Spring Boot, Microservices, Docker**.  
-🌱 Always learning new technologies and exploring **AI tools** to improve productivity.  
+🔭 I’m currently starting my career journey in the **FinTech** field. Mainly focus on security and trade transaction system. 
+👨‍🎓 Graduated from **Master's in Computer Science** at **The University of Hong Kong (HKU)**.  
+💻 I specialize in **Java backend development** and have hands-on experience with **Spring Ecosystem, Microservices, Distributed System and Database**. Explore the potential of AI as well!
+🌱 I hope to maintain a certain level of curiosity that drives me to keep learning. The best time to plant a tree is ten years ago, and the second best time is now. 
 ⚡ Fun fact: I'm a passionate **golfer** and a **sports enthusiast**!
 
 ---
@@ -65,10 +66,10 @@
 
 | 🔥 Project Name | 🌟 Description | 🔗 Link |
 |-----------------|----------------|---------|
-| **Jools-RPC-Framework**   | A simple RPC framework based on Java + Etcd + Vert.x | [Check it out](https://reurl.cc/dy6o5z) |
-| **JoolsAPIs - Platform**   | An API platform based on Spring Boot + Dubbo + Spring Cloud | [Check it out](https://reurl.cc/2j6QG6) |
-| **Seckill Control System** | High-concurrency seckill system using Redis & RabbitMQ | [Check it out](https://reurl.cc/93X78x) |
-| **Hzxliving Mail system**    | Distributed microservices-based product publishing system | [Check it out](https://reurl.cc/7do7xQ) |
+| **Jools-RPC-Framework**   | A simple RPC framework based on Java + Etcd + Vert.x; Implement LoadBalance, Fail Tolerant, Local Mock Functions. Encapsulate to SpringBoot Starter SDK. | [Check it out](https://reurl.cc/dy6o5z) |
+| **JoolsAPIs - Platform**   | An API platform based on Spring Boot + Dubbo + Spring Cloud. Able to verify identity, parameter types and reject illegal requests. | [Check it out](https://reurl.cc/2j6QG6) |
+| **Seckill Control System** | High-concurrency seckill system using Redis & RabbitMQ. Explore to use page cache, cache warm-up, distributed lock to help prevent faults from occurring.| [Check it out](https://reurl.cc/93X78x) |
+| **Hzxliving Mail system**    | Distributed microservices-based product publishing system. Practice basic system design and realize ability for Java backend system.  | [Check it out](https://reurl.cc/7do7xQ) |
 
 ---
 
